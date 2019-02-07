@@ -1,0 +1,8 @@
+Hi.
+Hello.
+This is Maitry Mer.
+<<<<<<< HEAD
+I am creating this file for b2 branch.
+=======
+I am creating this file for b1 branch.
+>>>>>>> mm-task-b1
